@@ -1,0 +1,12 @@
+# Python virtual environment built by setup.sh (not committed, per README)
+esptool-env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# WiFi credentials, if a copy is ever made locally (huzzah.sh wifi set writes it to the board only)
+device/wifi_config.py
